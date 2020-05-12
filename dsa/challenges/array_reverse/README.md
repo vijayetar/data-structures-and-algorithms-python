@@ -1,10 +1,6 @@
-# data-structures-and-algorithms-python
 
-## Table of contents
-### Algorithms
-* [Reverse an Array](README.md)
-
-* ### [__Reverse an Array__](challenges/array_reverse/array_reverse.py)
+## __Reverse an Array__
+See [solution](challenges/array_reverse/array_reverse.py)
 
 A function to reverse an array given as an argument.
 
@@ -20,4 +16,4 @@ A function to reverse an array given as an argument.
   * Specificiations used : none
 
   * Solution
-![whiteboard](dsa/assets/array-reverse.jpg)
+![whiteboard](../../assets/array-reverse.jpg)
