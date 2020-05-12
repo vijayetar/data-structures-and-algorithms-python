@@ -1,6 +1,7 @@
 
 ## __Reverse an Array__
-See [solution](challenges/array_reverse/array_reverse.py)
+## [Table of Contents](../../../README.md)
+See [solution](array_reverse.py)
 
 A function to reverse an array given as an argument.
 
@@ -13,7 +14,7 @@ A function to reverse an array given as an argument.
 
   * The built in reverse() is a generator and saves time and is efficient.
 
-  * Specificiations used : none
+  * Specificiations used : gitignore, editorconfig
 
   * Solution
 ![whiteboard](../../assets/array-reverse.jpg)
