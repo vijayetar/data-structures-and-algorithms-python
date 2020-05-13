@@ -8,7 +8,9 @@
 
 
 
+-----------------------------------
 
+This is draft of the reading document:
 Draft:
 See [solution](file_name)
 
