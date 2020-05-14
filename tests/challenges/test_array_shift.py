@@ -1,4 +1,4 @@
-from dsa.challenges.array_shift.array_shift import insertShiftArray, removeAndShiftArray
+from ...dsa.challenges.array_shift.array_shift import insertShiftArray, removeAndShiftArray
 
 def test_one():
   actual=insertShiftArray([1,2,3,4,5],6)
